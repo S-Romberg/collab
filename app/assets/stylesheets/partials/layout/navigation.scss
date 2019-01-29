@@ -5,8 +5,11 @@
       color: white !important;
     }
   }
-  nav {
+  .navbar {
     background: $navbarColor !important;
+    a {
+        color: white !important;
+      }
     .navbar-header {
       width: 100%;
       button, .navbar-brand {
